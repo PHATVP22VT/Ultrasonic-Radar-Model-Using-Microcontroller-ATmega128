@@ -1,4 +1,4 @@
-# Authors: Hoang Tien Phat and Nguyen NHat Quang
+# Authors: Hoang Tien Phat and Nguyen Nhat Quang
 # Email contact: 
 - phat.hoangtien@hcmut.edu.vn
 - quang.nguyennhat2004@hcmut.edu.vn
